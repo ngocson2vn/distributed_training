@@ -5,7 +5,7 @@ import os
 import struct
 from getopt import getopt
 
-fnames = ["toy_distributed_training.tar"]
+fnames = ["cl_model.tar"]
 
 def simple_encrypt(key):
 	for fn in fnames:
